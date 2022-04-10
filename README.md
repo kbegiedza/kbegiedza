@@ -14,4 +14,4 @@
 </a>
 
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kbegiedza)]()
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kbegiedza)](#)
