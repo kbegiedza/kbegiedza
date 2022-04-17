@@ -12,6 +12,3 @@
     <img src="https://img.shields.io/badge/krzysztof_begiedza-c78943?style=flat-square&logo=linkedin">
     </img>
 </a>
-
-## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kbegiedza)](#)
