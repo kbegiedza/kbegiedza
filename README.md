@@ -4,8 +4,8 @@ I'm Krzysztof, a passionate software engineer and .NET enthusiast interested in 
 My main goal is to supply people with tools to improve their lives.
 
 # Latest posts
-* [Story about graceful termination with modern .NET](https://blog.kbegiedza.eu/dotnet-and-story-about-graceful-termination)
-* [Setup CUDA developement with VSCode](https://blog.kbegiedza.eu/setup-cuda-developement-with-vscode)
+<!-- LATEST_BLOG_POSTS:START -->
+<!-- LATEST_BLOG_POSTS:END -->
 
 # Projects
 TBA
