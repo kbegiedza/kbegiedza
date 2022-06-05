@@ -5,6 +5,9 @@ My main goal is to supply people with tools to improve their lives.
 
 # Latest posts
 <!-- LATEST_BLOG_POSTS:START -->
+- [Story about graceful termination with modern .NET](https://blog.kbegiedza.eu/dotnet-and-story-about-graceful-termination)
+- [Containerization of CUDA environment using VSCode](https://blog.kbegiedza.eu/setup-cuda-developement-with-vscode)
+- [How to publish your project as nuget package](https://blog.kbegiedza.eu/how-to-publish-your-project-as-nuget-package)
 <!-- LATEST_BLOG_POSTS:END -->
 
 # Projects
