@@ -34,6 +34,3 @@ TBA
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/kbegiedza)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQWEdF2GrA9rgQgnbGmW0uQ)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kbegiedza/)
-
-# Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kbegiedza&show_icons=true&count_private=true&include_all_commits=true&theme=nord)
