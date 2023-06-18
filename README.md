@@ -5,11 +5,11 @@ My main goal is to supply people with tools to improve their lives.
 
 # Latest posts
 <!-- LATEST_BLOG_POSTS:START -->
+- [Enable hot reload for Jekyll inside container on Windows](http://blog.kbegiedza.eu/enable-hot-reload-for-jekyll-inside-container-on-windows)
 - [Feature toggle management in .NET Core](http://blog.kbegiedza.eu/feature-management-in-dotnet-core)
 - [Pushing to git repo with automatic upstream setup](http://blog.kbegiedza.eu/git-push-with-automatic-upstream-setup)
 - [Story about graceful termination with modern .NET](http://blog.kbegiedza.eu/dotnet-and-story-about-graceful-termination)
 - [Containerization of CUDA environment using VSCode](http://blog.kbegiedza.eu/setup-cuda-developement-with-vscode)
-- [How to publish your project as nuget package](http://blog.kbegiedza.eu/how-to-publish-your-project-as-nuget-package)
 <!-- LATEST_BLOG_POSTS:END -->
 
 # Projects
