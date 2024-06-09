@@ -1,7 +1,10 @@
 # Hi! 👋
-I'm Krzysztof, a passionate software engineer and .NET enthusiast interested in artificial intelligence and game development.
+I'm Krzysztof, a passionate software engineer and .NET enthusiast with background in artificial intelligence and game development. \
+My main goal is to supply people with tools to improve their lives. \
+Made few XR (AR/VR) apps and shipped AI-based solutions before it was cool 😎.
 
-My main goal is to supply people with tools to improve their lives.
+# Now
+Currently on mission exploring backend and cloud development, experimenting with frontend and messing around with software architecture.
 
 # Latest posts
 <!-- LATEST_BLOG_POSTS:START -->
@@ -12,25 +15,40 @@ My main goal is to supply people with tools to improve their lives.
 - [Containerization of CUDA environment using VSCode](http://blog.kbegiedza.eu/setup-cuda-developement-with-vscode)
 <!-- LATEST_BLOG_POSTS:END -->
 
-# Projects
-TBA
+# Latest creations
+- [tools.ulfsoft](https://tools.ulfsoft.com/)
+- [Calcules](https://calcul.es/)
 
 # Technology
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) \
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) \
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white) \
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
+![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) \
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 # Stay in touch
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kbegiedzaeu)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-begiedza/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/kbegiedza)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQWEdF2GrA9rgQgnbGmW0uQ)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kbegiedza/)
+[![X](https://img.shields.io/badge/kbegiedza_eu-%23000000.svg?logo=X&logoColor=white)](https://x.com/kbegiedza_eu)
+[![LinkedIn](https://img.shields.io/badge/krzysztof--begiedza-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-begiedza/)
+[![Reddit](https://img.shields.io/badge/kbegiedza-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/kbegiedza)
+[![YouTube](https://img.shields.io/badge/kbegiedza-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQWEdF2GrA9rgQgnbGmW0uQ)
