@@ -49,6 +49,7 @@ Currently on mission exploring backend and cloud development, experimenting with
 # Stay in touch
 
 [![X](https://img.shields.io/badge/kbegiedza_eu-%23000000.svg?logo=X&logoColor=white)](https://x.com/kbegiedza_eu)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/kbegiedza)
 [![LinkedIn](https://img.shields.io/badge/krzysztof--begiedza-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-begiedza/)
 [![Reddit](https://img.shields.io/badge/kbegiedza-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/kbegiedza)
 [![YouTube](https://img.shields.io/badge/kbegiedza-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQWEdF2GrA9rgQgnbGmW0uQ)
