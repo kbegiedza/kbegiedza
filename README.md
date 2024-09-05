@@ -8,11 +8,11 @@ Currently on mission exploring backend and cloud development, experimenting with
 
 # Latest posts
 <!-- LATEST_BLOG_POSTS:START -->
-- [Enable hot reload for Jekyll inside container on Windows](http://blog.kbegiedza.eu/enable-hot-reload-for-jekyll-inside-container-on-windows)
-- [Feature toggle management in .NET Core](http://blog.kbegiedza.eu/feature-management-in-dotnet-core)
-- [Pushing to git repo with automatic upstream setup](http://blog.kbegiedza.eu/git-push-with-automatic-upstream-setup)
-- [Story about graceful termination with modern .NET](http://blog.kbegiedza.eu/dotnet-and-story-about-graceful-termination)
-- [Containerization of CUDA environment using VSCode](http://blog.kbegiedza.eu/setup-cuda-developement-with-vscode)
+- [Enabling Hot Reload in a Jekyll Container on Windows](https://pathofengineer.com/posts/enabling-hot-reload-in-a-jekyll-container-on-windows/)
+- [Feature management in dotnet core](https://pathofengineer.com/posts/feature-management-in-dotnet-core/)
+- [Streamline Git: Automate Upstream Setup](https://pathofengineer.com/posts/streamline-git-automate-upstream-setup/)
+- [Story about graceful termination with modern .NET](https://pathofengineer.com/posts/story-about-graceful-termination-with-modern-net/)
+- [Containerization of CUDA environment using VSCode](https://pathofengineer.com/posts/containerization-of-cuda-environment-using-vscode/)
 <!-- LATEST_BLOG_POSTS:END -->
 
 # Latest creations
