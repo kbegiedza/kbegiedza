@@ -8,11 +8,11 @@ Currently on mission exploring backend and cloud development, experimenting with
 
 # Latest posts
 <!-- LATEST_BLOG_POSTS:START -->
+- [Infamous N+1 Query Problem with Entity Framework Core](https://pathofengineer.com/posts/infamous-n1-query-problem-with-entity-framework-core/)
 - [Secure Your Data with Entity Framework Core Encryption](https://pathofengineer.com/posts/secure-your-data-with-entity-framework-core-encryption/)
 - [Enabling Hot Reload in a Jekyll Container on Windows](https://pathofengineer.com/posts/enabling-hot-reload-in-a-jekyll-container-on-windows/)
 - [Feature management in dotnet core](https://pathofengineer.com/posts/feature-management-in-dotnet-core/)
 - [Streamline Git: Automate Upstream Setup](https://pathofengineer.com/posts/streamline-git-automate-upstream-setup/)
-- [Story about graceful termination with modern .NET](https://pathofengineer.com/posts/story-about-graceful-termination-with-modern-net/)
 <!-- LATEST_BLOG_POSTS:END -->
 
 # Latest creations
