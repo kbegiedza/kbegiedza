@@ -16,4 +16,4 @@ jobs:
         with:
           comment_tag_name: "LATEST_BLOG_POSTS"
           commit_message: "Updated README with the latest blog posts"
-          feed_list: "https://pathofengineer.com/rss.xml"
+          feed_list: "https://blog.pathofengineer.com/rss.xml"
