@@ -16,6 +16,8 @@ Currently on mission exploring backend and cloud development, experimenting with
 <!-- LATEST_BLOG_POSTS:END -->
 
 # Latest creations
+- [feathalla](http://feathalla.com/)
+- [ulfity](http://ulfity.com/)
 - [tools.ulfsoft](https://tools.ulfsoft.com/)
 - [Calcules](https://calcul.es/)
 
