@@ -16,11 +16,11 @@ Currently on mission exploring backend and cloud development, experimenting with
 <!-- LATEST_BLOG_POSTS:END -->
 
 # Latest creations
-- [zegar](https://zegar.ulfsoft.com?utm_source=github.com&utm_campaign=kbegiedza-readme)
-- [feathalla](https://feathalla.com?utm_source=github.com&utm_campaign=kbegiedza-readme)
-- [ulfity](https://ulfity.com?utm_source=github.com&utm_campaign=kbegiedza-readme)
-- [tools.ulfsoft](https://tools.ulfsoft.com?utm_source=github.com&utm_campaign=kbegiedza-readme)
-- [Calcules](https://calcul.es?utm_source=github.com&utm_campaign=kbegiedza-readme)
+- [zegar](https://zegar.ulfsoft.com?utm_source=github&utm_medium=kbegiedza&utm_campaign=readme)
+- [feathalla](https://feathalla.com?utm_source=github&utm_medium=kbegiedza&utm_campaign=readme)
+- [ulfity](https://ulfity.com?utm_source=github&utm_medium=kbegiedza&utm_campaign=readme)
+- [tools.ulfsoft](https://tools.ulfsoft.com?utm_source=github&utm_medium=kbegiedza&utm_campaign=readme)
+- [Calcules](https://calcul.es?utm_source=github&utm_medium=kbegiedza&utm_campaign=readme)
 
 # Technology
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
